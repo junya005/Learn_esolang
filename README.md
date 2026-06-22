@@ -9,7 +9,7 @@
 ```text
 .
 ├── README.md               # このファイル
-└── brainfuck/             # CowLang の学習データ
+└── cowlang/             # CowLang の学習データ
     └── hello_world.cow      
 ```
 
