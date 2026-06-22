@@ -10,7 +10,7 @@
 .
 ├── README.md               # このファイル
 └── cowlang/             # CowLang の学習データ
-    └── hello_world.cow      
+    └── HellowWorld.cow      
 ```
 
 ## 開発環境
